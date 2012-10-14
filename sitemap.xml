@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://BrownFurSeal.github.com/blog/2012/10/14/first-post-using-octopress/</loc>
+        <lastmod>2012-10-14T11:43:15+04:00</lastmod>
+    </url>
+    <url>
         <loc>http://BrownFurSeal.github.com/blog/archives/</loc>
-        <lastmod>2012-10-14T11:27:28+04:00</lastmod>
+        <lastmod>2012-10-14T11:43:15+04:00</lastmod>
     </url>
     <url>
         <loc>http://BrownFurSeal.github.com/</loc>
-        <lastmod>2012-10-14T11:27:28+04:00</lastmod>
+        <lastmod>2012-10-14T11:43:15+04:00</lastmod>
     </url>
 </urlset>
